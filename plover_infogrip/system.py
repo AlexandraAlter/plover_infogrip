@@ -42,5 +42,7 @@ KEYMAPS = {
 DICTIONARIES_ROOT = 'asset:plover_infogrip:assets'
 DEFAULT_DICTIONARIES = (
     'infogrip_user.json',
+    'infogrip_funcs.json',
+    'infogrip_num.json',
     'infogrip_main.json',
 )
